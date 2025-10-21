@@ -1,0 +1,7 @@
+[
+  { "name": "Crochet Handbag", "price": 1200, "image": "images/handbag.jpg" },
+  { "name": "Knitted Sweater", "price": 1800, "image": "images/sweater.jpg" },
+  { "name": "Custom Crochet Top", "price": 1500, "image": "images/top.jpg" },
+  { "name": "Woolen Scarf", "price": 800, "image": "images/scarf.jpg" },
+  { "name": "Baby Booties", "price": 600, "image": "images/booties.jpg" }
+]
