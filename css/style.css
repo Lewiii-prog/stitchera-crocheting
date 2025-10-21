@@ -42,7 +42,7 @@ nav a:hover, nav a.active { color: #d16ba5; }
 
 /* ---------- HERO ---------- */
 .hero {
-  background: url('../images/download\ \(6\).jpeg') center/cover no-repeat;
+  background: url('../images/hero.jpg') center/cover no-repeat;
   height: 80vh;
   display: flex;
   justify-content: center;
@@ -172,3 +172,4 @@ footer { background: #f8f8f8; text-align: center; padding: 20px; font-size: 0.9r
   opacity: 1;
   transform: translateY(0);
 }
+
