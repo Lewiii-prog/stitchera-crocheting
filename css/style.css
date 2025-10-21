@@ -64,7 +64,7 @@ nav a:hover, nav a.active { color: #d16ba5; }
 .hero h1 { font-size: 2.5rem; margin-bottom: 15px; }
 .hero p { font-size: 1.1rem; margin-bottom: 20px; }
 .btn {
-  background: #934672;
+  background: #ecb3d6;
   color: #fff;
   padding: 10px 20px;
   border-radius: 30px;
@@ -172,5 +172,6 @@ footer { background: #f8f8f8; text-align: center; padding: 20px; font-size: 0.9r
   opacity: 1;
   transform: translateY(0);
 }
+
 
 
